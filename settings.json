@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeshedPaths": [
+        "C:/Users/76337/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/typeshed-fallback"
+    ]
+}
